@@ -21,23 +21,23 @@
 ---
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="45" alt="apachekafka logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dot-net logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
 </div>
