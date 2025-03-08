@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👩‍💻 Software Developer Intern at Eplan  <br>🎓 Graduating in Information Systems  <br>💡 Like a good challenge and developing solutions</p>
+<p align="left">👩‍💻 Software Developer Intern at Eplan  <br>🎓 Graduating in Information Systems  <br>💡 Like a good challenge and develop solutions</p>
 
 ###
 
